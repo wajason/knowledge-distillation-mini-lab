@@ -67,15 +67,10 @@ Soft Distillation outperformed Hard Distillation with **+1.1% accuracy** and bet
 If this work helps your study or project, please consider citing:  
 
 @misc{wajason2025knowledge,  
-
 author = {Jason Huang},  
-
 title = {Knowledge Distillation Mini Lab},  
-
 year = {2025},  
-
 url = {https://github.com/wajason/knowledge-distillation-mini-lab}  
-
 
 }
 ---
